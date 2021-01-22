@@ -34,7 +34,7 @@ class ResultScreen extends StatelessWidget {
               ),
             ),
             Expanded(
-              flex: 5,
+              flex: 9,
               child: ReusableCard(
                 color: kActiveColor,
                 cardChild: Column(

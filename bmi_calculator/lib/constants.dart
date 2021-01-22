@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const bottomContainerHeight = 80.0;
+const bottomContainerHeight = 70.0;
 const kActiveColor = Color(0xFF1D1E33);
 const kInactiveColor = Color(0xFF111328);
 
